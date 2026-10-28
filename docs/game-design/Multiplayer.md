@@ -1,0 +1,1 @@
+The game uses a client-server multiplayer architecture where the server is authoritative and clients only record actions and synchronize their game state from the server. 
